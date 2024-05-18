@@ -23,3 +23,7 @@ No Python, o arquivo __init__.py desempenha um papel fundamental na organizaçã
 
 # templates/
 É uma pasta vazia
+
+
+# Para executar pelo Dockerfile
+Para executar pelo Dockerfile baixe o repositorio "https://github.com/RodrigoKartcheski/gcloud.git" arquivo "gcloud-cli-ubuntu-20". No Dockerfile tem instruções para execução.
